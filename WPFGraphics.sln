@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFGraphics", "WPFGraphics\WPFGraphics.csproj", "{233B0C12-4A26-48F6-B1D2-4809DEEF1DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233B0C12-4A26-48F6-B1D2-4809DEEF1DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233B0C12-4A26-48F6-B1D2-4809DEEF1DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233B0C12-4A26-48F6-B1D2-4809DEEF1DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233B0C12-4A26-48F6-B1D2-4809DEEF1DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7325AEBC-EBEA-4B31-AD33-10605EF228D0}
+	EndGlobalSection
+EndGlobal
